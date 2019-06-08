@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ABBYY test</string>
+    <string name="title_home">Перевод</string>
+    <string name="title_dashboard">История</string>
+    <string name="translate">Перевести</string>
+    <string name="hint">Введите слово</string>
+</resources>
