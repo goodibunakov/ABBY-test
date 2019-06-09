@@ -4,4 +4,7 @@
     <string name="title_dashboard">История</string>
     <string name="translate">Перевести</string>
     <string name="hint">Введите слово</string>
+    <string name="auth_error">Ошибка авторизации</string>
+    <string name="only_eng">Вводите только английское слово!</string>
+    <string name="not_found">Перевод не найден</string>
 </resources>
